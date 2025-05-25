@@ -1,0 +1,14 @@
+# Day 1 - Linux Basics
+
+## Εντολές που έμαθα:
+- pwd
+- ls -la
+- mkdir
+- echo > file
+- cat
+- grep
+- whoami
+- ip a
+
+## Φάκελος: cyberlab
+## Αρχείο: notes.txt με test περιεχόμενοMy first cyber note
