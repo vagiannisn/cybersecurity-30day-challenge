@@ -10,9 +10,5 @@
 - whoami
 - ip a
 
-## Test 22352675465
-
 ## Φάκελος: cyberlab
 ## Αρχείο: notes.txt με test περιεχόμενοMy first cyber note
-
-## Test
